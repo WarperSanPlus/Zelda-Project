@@ -1,0 +1,21 @@
+﻿<sprites width="64" height="56">
+	<sprite x="0" y="0" name="bas1"></sprite>
+	<sprite x="64" y="0" name="bas2"></sprite>
+	<sprite x="128" y="0" name="bas3"></sprite>
+	<sprite x="192" y="0" name="bas4"></sprite>
+	
+	<sprite x="0" y="56" name="gauche1"></sprite>
+	<sprite x="64" y="56" name="gauche2"></sprite>
+	<sprite x="128" y="56" name="gauche3"></sprite>
+	<sprite x="192" y="56" name="gauche4"></sprite>
+
+	<sprite x="0" y="112" name="droite1"></sprite>
+	<sprite x="64" y="112" name="droite2"></sprite>
+	<sprite x="128" y="112" name="droite3"></sprite>
+	<sprite x="192" y="112" name="droite4"></sprite>
+
+	<sprite x="0" y="168" name="haut1"></sprite>
+	<sprite x="64" y="168" name="haut2"></sprite>
+	<sprite x="128" y="168" name="haut3"></sprite>
+	<sprite x="192" y="168" name="haut4"></sprite>
+</sprites>

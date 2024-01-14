@@ -1,0 +1,192 @@
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\controls.ctrl
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Fonts\The Wild Breath of Zelda.otf
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\bee.png
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\dino.png
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\Epee.png
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\Icons-Pack.png
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\lemonde.bmp
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\Link.png
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\MasqueDuMonde (version complète).bmp
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\MasqueDuMonde.bmp
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\Pain.png
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\skel.png
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\zombie.png
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Link.xml
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Monstres XML\Bee.xml
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Monstres XML\Dino.xml
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Monstres XML\Squelette.xml
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Monstres XML\Zombie.xml
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\KB4_PFI_Zelda_solution.exe
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\KB4_PFI_Zelda_solution.deps.json
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\KB4_PFI_Zelda_solution.runtimeconfig.json
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\KB4_PFI_Zelda_solution.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\KB4_PFI_Zelda_solution.pdb
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\SFML.Audio.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\SFML.Graphics.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\SFML.System.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\SFML.Window.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x64\native\csfml-System.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x64\native\openal32.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x86\native\csfml-System.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x86\native\openal32.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.csproj.AssemblyReference.cache
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.AssemblyInfoInputs.cache
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.AssemblyInfo.cs
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.csproj.CoreCompileInputs.cache
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.csproj.CopyComplete
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\refint\KB4_PFI_Zelda_solution.dll
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.pdb
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.genruntimeconfig.cache
+C:\Users\Phillipe\source\repos\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\ref\KB4_PFI_Zelda_solution.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\controls.ctrl
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Fonts\The Wild Breath of Zelda.otf
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\bee.png
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\dino.png
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\Epee.png
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\Icons-Pack.png
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\lemonde.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\Link.png
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\MasqueDuMonde (version complète).bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\MasqueDuMonde.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\Pain.png
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\skel.png
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Images\zombie.png
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Link.xml
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Monstres XML\Bee.xml
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Monstres XML\Dino.xml
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Monstres XML\Squelette.xml
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\Monstres XML\Zombie.xml
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\KB4_PFI_Zelda_solution.exe
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\KB4_PFI_Zelda_solution.deps.json
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\KB4_PFI_Zelda_solution.runtimeconfig.json
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\KB4_PFI_Zelda_solution.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\KB4_PFI_Zelda_solution.pdb
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\SFML.Audio.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\SFML.Graphics.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\SFML.System.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\SFML.Window.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x64\native\csfml-System.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x64\native\openal32.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x86\native\csfml-System.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\bin\Debug\net6.0\runtimes\win-x86\native\openal32.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.csproj.AssemblyReference.cache
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.AssemblyInfoInputs.cache
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.AssemblyInfo.cs
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.csproj.CoreCompileInputs.cache
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.csproj.CopyComplete
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\refint\KB4_PFI_Zelda_solution.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.pdb
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\KB4_PFI_Zelda_solution.genruntimeconfig.cache
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB4\KB4_PFI_Zelda_solution\KB4_PFI_Zelda_solution\obj\Debug\net6.0\ref\KB4_PFI_Zelda_solution.dll

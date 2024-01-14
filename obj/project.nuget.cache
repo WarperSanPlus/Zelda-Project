@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Ae6S8d1NkJ/rrXcB0qk+Ja9ijNkHgj+i6aIbsZ1vAm9gJ3OiNSB57ieosvSkvhc550KuOaQ/UzR/Nsp8TpzFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Phillipe\\OneDrive - Collège Lionel-Groulx\\Desktop\\KB4\\KB4_PFI_Zelda_solution\\KB4_PFI_Zelda_solution\\KB4_PFI_Zelda_solution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phillipe\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Phillipe\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Phillipe\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Phillipe\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Phillipe\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Phillipe\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
